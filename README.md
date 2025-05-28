@@ -1,1 +1,1 @@
-# Advanced-Programming-c-
+# BookHub: Book Club Management System
