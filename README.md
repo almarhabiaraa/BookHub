@@ -28,7 +28,7 @@ BookHub is a console-based Book Club Management System developed as a course pro
 - Dynamic memory management with arrays of pointers
 - Text-based menu-driven interface
 
-## Detailed Module Descriptions
+## Code Overview
 ### Book Classes/
 1. Book Class:
 - Stores individual book data: ID, title, author, and publication year.
